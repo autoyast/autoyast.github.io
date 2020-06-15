@@ -6,15 +6,15 @@ installations.
 
 ## Warning
 
-:warning: This is site a proof of concept, the file names and URL paths
+:warning: This site is still a proof of concept, the file names and URL paths
 can be still changed!! :warning:
 
 ## Index
 
 1. [Minimal Profiles](minimal) - Minimal configurations containing only the
-   mandatory items.
+   mandatory items
 2. [Rules](rules) - AutoYaST rules allow loading specific configuration XML
-   files depending on the matching rules.
+   files depending on the matching rules
 
 ## Links
 
