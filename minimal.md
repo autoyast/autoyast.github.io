@@ -19,6 +19,9 @@ Boot option: `autoyast={{ "/" | absolute_url }}mini/leap15_confirm.xml`
 
 #### Minimal SLES 15
 
+Note: This profile assume the "Full" installation medium is used, if you
+want to use the "Online" medium see the [registration](registration) examples.
+
 File: [sles15.xml]({{ "/" | absolute_url }}mini/sles15.xml)  
 Boot option: `autoyast={{ "/" | absolute_url }}mini/sles15.xml`
 

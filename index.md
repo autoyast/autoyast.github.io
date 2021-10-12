@@ -15,6 +15,7 @@ can be still changed!! :warning:
    mandatory items
 2. [Rules](rules) - AutoYaST rules allow loading specific configuration XML
    files depending on the matching rules
+3. [SLE Registration](registration) - SLE installation with registration
 
 ## Links
 

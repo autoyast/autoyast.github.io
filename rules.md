@@ -4,7 +4,7 @@ The AutoYaST rules allow configuring the system according to several
 system attributes.
 
 See more details in the [AutoYaST rules documentation](
-https://documentation.suse.com/sles/15-SP1/html/SLES-all/rulesandclass.html#rules).
+https://documentation.suse.com/sles/15-SP3/html/SLES-all/rulesandclass.html#rules).
 
 ### X Window or Minimal System
 
